@@ -34,11 +34,10 @@
 ---
 
 ### 알고리즘 🎭
-
-<div align="left">
-
 백준
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bur5698" />
+<img algin="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bur5698" />
 
-</div>
+프로그래머스
+
+<img algin="left" src="./img/pro.png" />
