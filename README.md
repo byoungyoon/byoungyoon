@@ -1,9 +1,6 @@
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=byoungyoon&show_icons=true&theme=radical&" />
-
-### Byoungyoon ✌🤞🤞
-
----
+    
+# Byoungyoon ✌🤞🤞
 
 <div align="left">
 
