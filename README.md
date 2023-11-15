@@ -12,19 +12,19 @@
   - JavaScript, Java 학습
   - 프로젝트
     - LMS (학습시스템)
-      - <a src="https://github.com/byoungyoon/LMS-Z">Source Code</a>
+      - [Source Code](https://github.com/rigizer/LMS-X)
       - Spring Boot(back), JSP(front) 사용
       - MariaDB, Mybatis를 사용하여 DB 연동
       - AWS Lightsail에서 Tomcat 구동 후 베포 테스트
     - 가계부
-      - <a src="https://github.com/byoungyoon/cash">Source Code</a>
+      - [Source Code](https://github.com/byoungyoon/cash)
 - [2021.02~2023.07] (주)제이비티 개발본부
   - 공간데이터를 활용한 신규개발, 유지/보수
     - Spring Boot
   - 프로젝트
     - POI (3개월 교육 프로젝트)
         - POI 데이터를 활용하여 지도 만들기
-        - <a src="https://github.com/byoungyoon/poi.git">Source Code</a>
+        - [Source Code](https://github.com/byoungyoon/poi.git)
     - 사내 IoT플랫폼 솔루션 ThingsBoard 제품화 프로젝트
         - Angular, Spring boot, postgreSQL, Cassandra
         - 중간 관리자 권한을 추가하고 *ngIf, fxshow를 이용하여 적용 / 사진 관련 액션을 angular에 추가하고 api 개발 / dashboard 스타일링 / dashboard에 다이어로그 액션 추가
