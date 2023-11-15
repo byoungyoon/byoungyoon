@@ -4,6 +4,8 @@
 
 <div align="left">
 
+### 경력
+
 - [2016.03-2021.02] 울산과학대학교 컴퓨터정보학부
 - [2020.08-2021.02] 구디아카데미 29기 (금융 오픈플랫폼(자바)기반 핀테크 개발자 양성과정)
   - Spring Boot, Mybatis, Python, Node.js 학습
@@ -34,9 +36,22 @@
         - 무작위 join을 사용한 쿼리문을 서브쿼리를 이용하여 최적화 / 프로젝트, 복리비, 지출결의 대한 웹 페이지 ui 제작 및 CRUD 
     - THREE.JS 를 활용한 플랫폼 개발
         - react, typescript, webpack, three.js, 
-        - three.js를 활용한 입체모형 제작, tree 계층구조에 따른 3d 모형 제작, raycaster를 활용한 마우스 컨트롤 등
+        - three.js를 활용한 입체모형 제작, tree 계층구조에 따른 3d 모형제작  
+        - raycaster를 활용한 마우스 컨트롤 등
+</div>
 </div>
 
+---
+
+### 사이드 프로젝트
+
+<div align="left">
+- [2023.11.03 ~ ing] 모두의 농구장  
+
+  - react, typescript, webpack, storybook 사용
+  - 비사이드 홈페이지에서 포텐데이 311기로 참가해서 만든 프로젝트 (FE 참가)
+  - ~11.12 까지 1차 완성작업, 2차 작업으로 앱 반응형 및 관리자 페이지 추가 예정
+  - https://bside.best/projects/detail/P231101145224
 </div>
 
 ---
