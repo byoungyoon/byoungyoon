@@ -14,6 +14,11 @@
 ### 스택
 
 - Java
+  - 알고리즘을 java로 하기 때문에 주어진 논제에 구현과 설명이 가능하다.
+    - 그리드, bfs, dfs, 이분탐색, 비트 마스킹 등등
+    - https://github.com/byoungyoon/algorithm
+  - JVM이 무엇인지 설명가능하다.
+    - https://blog.naver.com/bur5698/222942940261
 - Spring Boot
 - Mybatis
 - JPA
@@ -21,6 +26,9 @@
 - NoSQL
 - AWS
 - JavaScript / TypeScript
+- HTML / CSS
+  - DOCTYPE의 설명이 가능하다.
+    - https://velog.io/@byoungyoon/DOCTYPE
 - React
 - Webpack
 - Storybook
