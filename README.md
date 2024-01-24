@@ -8,6 +8,7 @@
 
 - 연락처 : 010 5024 1910
 - 이메일 : bur5698@naver.com
+- storybook : https://65b10084d2f5459f2a48261e-sncveyuutt.chromatic.com/
 
 ---
 
@@ -37,7 +38,7 @@
   - 반응형 CSS 제작 가능합니다.
 - React
   - 각종 디자인패턴에 따라 개발이 가능하고 Atomic으로 개발을 많이 합니다.
-  - componet을 제작을 할 때 재사용이 가능하게 제작가능합니다.
+  - component을 제작을 할 때 재사용이 가능하게 제작가능합니다.
   - browerRouter, hashRouter 등등 주어진 버젼에 맞게 router 커스텀이 가능합니다.
   - useEffect, useState, useMemo 등등 hooks를 상황에 맞게 사용하고 필요하면 커스텀 hooks도 제작가능합니다.
   - proxy에 대해 이해하고 axios를 이용하여 커스텀하여 사용 가능합니다.
