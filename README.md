@@ -9,9 +9,6 @@
 - 연락처 : 010 5024 1910
 - 이메일 : bur5698@naver.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byoungyoon&layout=donut)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bur5698)](https://solved.ac/bur5698)
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## :hammer: Technology Stacks
