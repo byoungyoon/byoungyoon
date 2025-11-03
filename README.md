@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Byoungyoon&fontSize=90&animation=fadeIn" />
 
-### 안녕하세요. 사용자 경험을 고민하고 또 고민하는<span style="color:orange"> FE 개발자 이병윤</span>입니다.
+### 안녕하세요. 사용자 경험과 구조의 균형을 끊임없이 고민하는 <span style="color:orange">프론트엔드 개발자 이병윤</span>입니다.
 
 - 연락처 : 010 5024 1910
 - 이메일 : bur5698@naver.com
@@ -32,6 +32,17 @@
   <span><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></span>
   <span><img alt="Google Meet" src="https://img.shields.io/badge/Google_Meet-00897B?style=flat&logo=google-meet&logoColor=white"/></span>
   <span><img alt="Zoom" src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white"/></span>
+
+---
+
+### 🪞 Retrospective
+[2025-10-31]
+- 폴더 구조가 깊어질수록 import도 깊어져 어디서 파생된 것인지 확 알기가 어려웠다
+- 핵심 폴더마자 index.ts를 두어 경로를 단축시키자
+
+[2025-11-03]
+- store의 setter 반복을 자동화할 수 있을 것 같다.
+- 다만, 자동화는 타입 안전성과 명시성을 해칠 수 있으니, slice 단위로 한정하자
 
 ---
 
