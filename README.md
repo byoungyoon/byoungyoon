@@ -36,6 +36,9 @@
 ---
 
 ### 🪞 Retrospective
+[2025-11-12]
+- Handler로 구조를 만들때 index에 area의 큰 틀을 두고 작업을 하면 편한것 같다.
+
 [2025-11-04]
 - Action / Handler 중심 구조에서 Area 중심 구조로 설계 감각이 확장되었다.
 - Area 단위로 구역을 나누고, 그 안에 `_action`, `_handler`를 두어 UI 구조와 폴더 구조를 일치시켰다.
