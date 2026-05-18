@@ -56,5 +56,5 @@
 
 편하게 연락 주세요! ☕️
 
-- 📧 **Email:** bur5698@naver.com
+- 📧 **Email:** bur5698@gmail.com
 - 📞 **Phone:** 010-5024-1910
