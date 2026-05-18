@@ -46,6 +46,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph" width="80%" />
+</div>
+
+<br/>
+
 ## 📫 Contact
 
 편하게 연락 주세요! ☕️
